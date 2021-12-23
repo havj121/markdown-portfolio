@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+😃
+1, Finished first step!
+
+😙
+2, Things to do:
+* DPM
+- DEM
+  * offline
+  * online
